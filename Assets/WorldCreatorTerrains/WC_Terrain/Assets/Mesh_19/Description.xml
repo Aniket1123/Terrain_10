@@ -1,0 +1,15 @@
+<WorldCreator Version="2.0">
+  <Mesh Preview="preview.png" Tags="" Description="" Publisher="" Website="" Guid="a2260211-4974-4d16-9a8e-ca1f13bf4a61" LODRange="0:20:100:50" ViewDistance="500" BlendDistance="50" RandomLodDistance="100" InfiniteDisplay="False" ScaleFactor="10" Rotation="0,0,0">
+    <LOD0 Billboard="False" DrawPercentage="100" Scale="0" PositionOffset="0,0,0">
+      <Subset File="vbhsfesga_LOD0.fbx" MeshName="Aset_nature__L_vbhsfesga_LOD0" SubsetIndex="0" MeshIndex="0" DoubleSided="False" AlphaTest="True" AlphaCutoff="0.05" Metallic="0" Smoothness="0.2" MetallicChannel="0" SmoothnessChannel="0" GeometryType="0" Scale="0.002865298,0.002865298,0.002865298" Position="0,0,0">
+        <Textures Preview="preview.png" Tags="" Description="" Publisher="" Website="" Guid="55cd2346-dade-43fa-97c1-e5ee27f6e662">
+          <Diffuse File="vbhsfesga_4K_Albedo.jpg" Time="133015595380000000" />
+          <Normal File="vbhsfesga_4K_Normal_LOD0.jpg" Time="133015595400000000" />
+          <Displacement File="" Time="133026107849744363" />
+        </Textures>
+      </Subset>
+    </LOD0>
+    <LOD1 Billboard="False" DrawPercentage="100" Scale="0" PositionOffset="0,0,0" />
+    <LOD2 Billboard="False" DrawPercentage="100" Scale="0" PositionOffset="0,0,0" />
+  </Mesh>
+</WorldCreator>

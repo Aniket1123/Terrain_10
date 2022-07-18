@@ -1,0 +1,7 @@
+<WorldCreator Version="2.0">
+  <Textures Preview="preview.png" Tags="" Description="" Publisher="" Website="" Guid="f17a8236-ed1a-4f73-9c8c-1b86ce746d1a">
+    <Diffuse File="sgmkajak_8K_Albedo.jpg" Time="133007786060000000" />
+    <Normal File="sgmkajak_8K_Normal.jpg" Time="133007786160000000" />
+    <Displacement File="" Time="133022662001833598" />
+  </Textures>
+</WorldCreator>

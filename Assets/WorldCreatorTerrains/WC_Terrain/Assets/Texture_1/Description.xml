@@ -1,0 +1,7 @@
+<WorldCreator Version="2.0">
+  <Textures Preview="preview.png" Tags="" Description="" Publisher="" Website="" Guid="e3411847-7087-4bc8-a772-86f272721b75">
+    <Diffuse File="dry_ground_rocks_diff_1k_0.jpg" Time="133014974870372024" />
+    <Normal File="" Time="133026107848618190" />
+    <Displacement File="" Time="133026107848618190" />
+  </Textures>
+</WorldCreator>

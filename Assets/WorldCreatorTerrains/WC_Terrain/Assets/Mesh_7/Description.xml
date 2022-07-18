@@ -1,0 +1,15 @@
+<WorldCreator Version="2.0">
+  <Mesh Preview="preview.png" Tags="" Description="" Publisher="" Website="" Guid="58a373c8-9d3a-4468-96bd-813376e889fc" LODRange="0:20:100:50" ViewDistance="500" BlendDistance="50" RandomLodDistance="100" InfiniteDisplay="False" ScaleFactor="10" Rotation="0,0,0">
+    <LOD0 Billboard="False" DrawPercentage="100" Scale="0" PositionOffset="0,0,0">
+      <Subset File="tlnvecpfa_LOD0.fbx" MeshName="Aset_moss_ground_M_tlnvecpfa_LOD0" SubsetIndex="0" MeshIndex="0" DoubleSided="False" AlphaTest="True" AlphaCutoff="0.05" Metallic="0" Smoothness="0.2" MetallicChannel="0" SmoothnessChannel="0" GeometryType="0" Scale="0.006345571,0.006345571,0.006345571" Position="0,0,0">
+        <Textures Preview="preview.png" Tags="" Description="" Publisher="" Website="" Guid="6e008a21-351a-4248-8a4b-9a4965ae52e8">
+          <Diffuse File="tlnvecpfa_4K_Albedo.jpg" Time="133015506180000000" />
+          <Normal File="tlnvecpfa_4K_Normal_LOD0.jpg" Time="133015506180000000" />
+          <Displacement File="" Time="133026107848883923" />
+        </Textures>
+      </Subset>
+    </LOD0>
+    <LOD1 Billboard="False" DrawPercentage="100" Scale="0" PositionOffset="0,0,0" />
+    <LOD2 Billboard="False" DrawPercentage="100" Scale="0" PositionOffset="0,0,0" />
+  </Mesh>
+</WorldCreator>

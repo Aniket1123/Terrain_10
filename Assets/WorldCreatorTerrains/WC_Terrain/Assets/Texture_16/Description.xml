@@ -1,0 +1,7 @@
+<WorldCreator Version="2.0">
+  <Textures Preview="preview.png" Tags="" Description="" Publisher="" Website="" Guid="9ad801f7-478a-410f-b494-38c524354347">
+    <Diffuse File="ugspafgdy_8K_Albedo.jpg" Time="133008498480000000" />
+    <Normal File="ugspafgdy_8K_Normal.jpg" Time="133008499960000000" />
+    <Displacement File="" Time="133022662002517836" />
+  </Textures>
+</WorldCreator>

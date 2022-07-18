@@ -1,0 +1,7 @@
+<WorldCreator Version="2.0">
+  <Textures Preview="preview.png" Tags="" Description="" Publisher="" Website="" Guid="17eda95d-638c-47f5-81da-751b6edcb4b9">
+    <Diffuse File="oilpt2_4K_Albedo.jpg" Time="133015402140000000" />
+    <Normal File="oilpt2_4K_Normal.jpg" Time="133015402140000000" />
+    <Displacement File="" Time="133022662001943600" />
+  </Textures>
+</WorldCreator>

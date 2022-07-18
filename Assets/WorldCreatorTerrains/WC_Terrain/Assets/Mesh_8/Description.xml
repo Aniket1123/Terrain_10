@@ -1,0 +1,15 @@
+<WorldCreator Version="2.0">
+  <Mesh Preview="preview.png" Tags="" Description="" Publisher="" Website="" Guid="613f9aa2-0989-490d-a2b1-b030bfd02192" LODRange="0:20:100:50" ViewDistance="500" BlendDistance="50" RandomLodDistance="100" InfiniteDisplay="False" ScaleFactor="10" Rotation="0,0,0">
+    <LOD0 Billboard="False" DrawPercentage="100" Scale="0" PositionOffset="0,0,0">
+      <Subset File="vd3oeic_LOD0.fbx" MeshName="Aset_nature_rock_L_vd3oeic_LOD0" SubsetIndex="0" MeshIndex="0" DoubleSided="False" AlphaTest="True" AlphaCutoff="0.05" Metallic="0" Smoothness="0.2" MetallicChannel="0" SmoothnessChannel="0" GeometryType="0" Scale="0.003786392,0.003786392,0.003786392" Position="0,0,0">
+        <Textures Preview="preview.png" Tags="" Description="" Publisher="" Website="" Guid="11dcaace-d107-4a2b-ac7c-39116628b6dc">
+          <Diffuse File="vd3oeic_4K_Albedo.jpg" Time="133015509020000000" />
+          <Normal File="vd3oeic_4K_Normal_LOD0.jpg" Time="133015509040000000" />
+          <Displacement File="" Time="133026107849961356" />
+        </Textures>
+      </Subset>
+    </LOD0>
+    <LOD1 Billboard="False" DrawPercentage="100" Scale="0" PositionOffset="0,0,0" />
+    <LOD2 Billboard="False" DrawPercentage="100" Scale="0" PositionOffset="0,0,0" />
+  </Mesh>
+</WorldCreator>
